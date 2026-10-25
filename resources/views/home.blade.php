@@ -49,7 +49,7 @@
 
 
 <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/socotra.avif" alt="Socotra Island" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">Yemen</p>
@@ -60,7 +60,7 @@
         </div>
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/canyon.avif" alt="Antelope Canyon" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">United States</p>
@@ -71,7 +71,7 @@
         </div>
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/darwaza.avif" alt="Darwaza Gas Crater" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400 ">Turkmenistan</p>
@@ -83,7 +83,7 @@
 
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/derinkuyu.webp" alt="Derinkuyu Underground City" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">Turkey</p>
@@ -92,7 +92,7 @@
         </div>
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/hillier.avif" alt="Lake Hillier" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">Australia</p>
@@ -103,7 +103,7 @@
         </div>
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/meteora.avif" alt="Meteora" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">Greece</p>
@@ -113,7 +113,7 @@
 
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/pamukkal.avif" alt="Pamukkale" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">Turkey</p>
@@ -122,7 +122,7 @@
         </div>
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/roraima.avif" alt="Mount Roraima" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">South America</p>
@@ -131,8 +131,8 @@
         </div>
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
-        <img src="/images/places/waitamo.avif" alt="Waitomo Glowworm Caves" class="h-56 w-full>
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
+        <img src="/images/places/waitamo.avif" alt="Waitomo Glowworm Caves" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">New Zealand</p>
             <h3 class="mt-2 text-xl font-bold">Waitomo Glowworm Caves</h3>
@@ -140,7 +140,7 @@
         </div>
     </article>
 
-    <article class="rounded-2xl border-none bg-green-800">
+    <article class="rounded-2xl border-none bg-green-800 hover:bg-green-700">
         <img src="/images/places/zandyan.avif" alt="Zandyan" class="h-56 w-full">
         <div class="p-5">
             <p class="text-sm text-green-400">China</p>
