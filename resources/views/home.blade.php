@@ -97,7 +97,9 @@
         <div class="p-5">
             <p class="text-sm text-green-400">Australia</p>
             <h3 class="mt-2 font-bold text-xl">Lake Hillier</h3>
-            <p class="mt-3 text-sm text-gray-400"></p>
+            <p class="mt-3 text-sm text-gray-400">
+    A pink lake known for its unusual color.
+</p>
         </div>
     </article>
 
@@ -141,9 +143,11 @@
     <article class="rounded-2xl border-none bg-green-800">
         <img src="/images/places/zandyan.avif" alt="Zandyan" class="h-56 w-full">
         <div class="p-5">
-            <p class="text-sm text-green-400">Discover</p>
-            <h3 class="mt-2 text-xl font-bold">Zandyan</h3>
-            <p class="mt-3 text-sm text-gray-400">Discover this unusual place and its story.</p>
+            <p class="text-sm text-green-400">China</p>
+<h3 class="mt-2 text-xl font-bold">Zhangjiajie National Forest Park</h3>
+<p class="mt-3 text-sm text-gray-400">
+    A beautiful park with towering sandstone pillars.
+</p>
         </div>
     </article>
 
