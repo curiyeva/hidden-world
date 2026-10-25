@@ -43,6 +43,9 @@
     <h2 class="mt-3 text-3xl font-bold">
         The world is waiting.
     </h2>
+    <p class="mt-3 text-gray-400">
+    Explore 10 extraordinary places around the world.
+</p>
 
 
 <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
