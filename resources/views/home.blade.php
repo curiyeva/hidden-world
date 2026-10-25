@@ -132,7 +132,7 @@
     </article>
 
     <article class="rounded-2xl border-none bg-green-800">
-        <img src="/images/places/waitamo.avif" alt="Waitomo Glowworm Caves">
+        <img src="/images/places/waitamo.avif" alt="Waitomo Glowworm Caves" class="h-56 w-full>
         <div class="p-5">
             <p class="text-sm text-green-400">New Zealand</p>
             <h3 class="mt-2 text-xl font-bold">Waitomo Glowworm Caves</h3>
